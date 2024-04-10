@@ -1,0 +1,62 @@
+<Players>
+    <Player id="P001">
+        <Name>John Doe</Name>
+        <Credit>1500</Credit>
+        <Email>john.doe@example.com</Email>
+        <Password>password123</Password>
+    </Player>
+    <Player id="P002">
+        <Name>Jane Smith</Name>
+        <Credit>2000</Credit>
+        <Email>jane.smith@example.com</Email>
+        <Password>1234abcd</Password>
+    </Player>
+    <Player id="P003">
+        <Name>Emily Jones</Name>
+        <Credit>1200</Credit>
+        <Email>emily.jones@example.com</Email>
+        <Password>emilysecure</Password>
+    </Player>
+    <Player id="P004">
+        <Name>Michael Johnson</Name>
+        <Credit>1800</Credit>
+        <Email>michael.johnson@example.com</Email>
+        <Password>michael789</Password>
+    </Player>
+    <Player id="P005">
+        <Name>Chris Brown</Name>
+        <Credit>2200</Credit>
+        <Email>chris.brown@example.com</Email>
+        <Password>chrispass</Password>
+    </Player>
+    <Player id="P006">
+        <Name>Lisa Wilson</Name>
+        <Credit>1450</Credit>
+        <Email>lisa.wilson@example.com</Email>
+        <Password>lisawilson123</Password>
+    </Player>
+    <Player id="P007">
+        <Name>David Miller</Name>
+        <Credit>1750</Credit>
+        <Email>david.miller@example.com</Email>
+        <Password>davidmiller456</Password>
+    </Player>
+    <Player id="P008">
+        <Name>Amy Moore</Name>
+        <Credit>1900</Credit>
+        <Email>amy.moore@example.com</Email>
+        <Password>amymoore789</Password>
+    </Player>
+    <Player id="P009">
+        <Name>James Taylor</Name>
+        <Credit>1600</Credit>
+        <Email>james.taylor@example.com</Email>
+        <Password>jamestaylor123</Password>
+    </Player>
+    <Player id="P010">
+        <Name>Maria Anderson</Name>
+        <Credit>2100</Credit>
+        <Email>maria.anderson@example.com</Email>
+        <Password>mariaanderson456</Password>
+    </Player>
+</Players>

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "P001",
+    "firstName": "John",
+    "lastName": "Doe",
+    "credit": 1500,
+    "email": "john.doe@example.com",
+    "password": "password123"
+  },
+  {
+    "id": "P002",
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "credit": 2000,
+    "email": "jane.smith@example.com",
+    "password": "1234abcd"
+  },
+  {
+    "id": "P003",
+    "firstName": "Emily",
+    "lastName": "Jones",
+    "credit": 1200,
+    "email": "emily.jones@example.com",
+    "password": "emilysecure"
+  },
+  {
+    "id": "P004",
+    "firstName": "Michael",
+    "lastName": "Johnson",
+    "credit": 1800,
+    "email": "michael.johnson@example.com",
+    "password": "michael789"
+  },
+  {
+    "id": "P005",
+    "firstName": "Chris",
+    "lastName": "Brown",
+    "credit": 2200,
+    "email": "chris.brown@example.com",
+    "password": "chrispass"
+  },
+  {
+    "id": "P006",
+    "firstName": "Lisa",
+    "lastName": "Wilson",
+    "credit": 1450,
+    "email": "lisa.wilson@example.com",
+    "password": "lisawilson123"
+  },
+  {
+    "id": "P007",
+    "firstName": "David",
+    "lastName": "Miller",
+    "credit": 1750,
+    "email": "david.miller@example.com",
+    "password": "davidmiller456"
+  },
+  {
+    "id": "P008",
+    "firstName": "Amy",
+    "lastName": "Moore",
+    "credit": 1900,
+    "email": "amy.moore@example.com",
+    "password": "amymoore789"
+  },
+  {
+    "id": "P009",
+    "firstName": "James",
+    "lastName": "Taylor",
+    "credit": 1600,
+    "email": "james.taylor@example.com",
+    "password": "jamestaylor123"
+  },
+  {
+    "id": "P010",
+    "firstName": "Maria",
+    "lastName": "Anderson",
+    "credit": 2100,
+    "email": "maria.anderson@example.com",
+    "password": "mariaanderson456"
+  }
+]
